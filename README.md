@@ -1,4 +1,4 @@
-## A Movie Database app build with sqlite3, Express, Auth0 authentication, React, Next and Styled Components.
+## A Movie Database app built with sqlite3, Express, Auth0 authentication, React, Next and Styled Components.
 
 This PWA allows users to search and add films to watch list with minimum fuss of log in. Auth0 is one method that makes the UX smoother and safer for both user and developer.
 
