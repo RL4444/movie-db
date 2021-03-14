@@ -1,0 +1,7 @@
+node_modules
+.env
+/src/.next
+/src/testData
+/db.sqlite
+*testData.json
+*.DS_Store
